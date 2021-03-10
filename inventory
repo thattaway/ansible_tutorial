@@ -7,3 +7,6 @@
 
 [file_servers]
 240.100.0.162
+
+[workstations]
+240.133.0.180
